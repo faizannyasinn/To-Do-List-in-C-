@@ -1,7 +1,7 @@
 This C++ program is a simple TODO list application that allows users to manage their tasks. It provides the following features:
 
-\nAdd a new task
-\nUpdate an existing task
-\nDelete a task
-\nView all tasks
-\nData persistence using file handling
+Add a new task
+Update an existing task
+Delete a task
+View all tasks
+Data persistence using file handling
